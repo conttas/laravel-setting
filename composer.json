@@ -1,5 +1,5 @@
 {
-    "name": "akaunting/setting",
+    "name": "conttas/laravel-setting",
     "description": "Persistent settings package for Laravel.",
     "keywords": [
         "laravel",
