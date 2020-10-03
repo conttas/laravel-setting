@@ -25,7 +25,7 @@ This package allows you to save settings in a more persistent way. You can use t
 Run the following command:
 
 ```bash
-composer require akaunting/setting
+composer require conttas/laravel-setting
 ```
 
 ### 2. Register (for Laravel < 5.5)
